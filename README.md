@@ -51,26 +51,26 @@ Snake is a game where the player controls a snake moving around the screen. The 
 - Q: Quit the game
 
 
-**Contributions**
+## Contributions
 Contributions are welcome! If you wish to improve this project, please follow these steps:
 
-1. Fork the repository.
+1. **Fork the repository**
 
-2. Create a new branch for your feature or fix:
+2. **Create a new branch for your feature or fix:**
 
 ```bash
 Copy
 Edit
 git checkout -b my-new-feature
 ```
-3. Make your changes and commit them:
+3. **Make your changes and commit them:**
 
 ```bash
 Copy
 Edit
 git commit -m 'Add new feature'
 ```
-4. Push your changes to my repository:
+4. **Push your changes to my repository:**
 
 ```bash
 Copy
