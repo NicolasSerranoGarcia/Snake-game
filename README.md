@@ -59,21 +59,15 @@ Contributions are welcome! If you wish to improve this project, please follow th
 2. **Create a new branch for your feature or fix:**
 
 ```bash
-Copy
-Edit
 git checkout -b my-new-feature
 ```
 3. **Make your changes and commit them:**
 
 ```bash
-Copy
-Edit
 git commit -m 'Add new feature'
 ```
 4. **Push your changes to my repository:**
 
 ```bash
-Copy
-Edit
 git push origin 
 ```
